@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Commerce Exhibition Projects</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #f0f0f0, #e2f1f8);
+      color: #333;
+    }
+    header {
+      background-color: #004b8d;
+      color: white;
+      padding: 1.5em;
+      text-align: center;
+    }
+    section {
+      padding: 2em;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #004b8d;
+    }
+    .box {
+      background: white;
+      border-left: 6px solid #004b8d;
+      margin: 1em 0;
+      padding: 1em;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 1em;
+      background: #004b8d;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Commerce Exhibition 2025</h1>
+  <p>Exploring the Future: Ethics, Innovation & Consumer Insight</p>
+</header>
+
+<section>
+  <div class="box">
+    <h2>1. Farm to Fork – Ethical Supply Chains</h2>
+    <p>This project highlights the journey of food from agriculture to the consumer’s home, promoting sustainability and traceability in the food system.</p>
+  </div>
+
+  <div class="box">
+    <h2>2. The Consumer Mind – Psychology in the Digital Era</h2>
+    <p>An interactive display showing how AI, algorithms, and design manipulate online consumer decisions and influence digital shopping habits.</p>
+  </div>
+
+  <div class="box">
+    <h2>3. Space Commercialization – The Final Market Frontier</h2>
+    <p>Exploring the economics of space: satellite commerce, space tourism, asteroid mining, and the vision for commercial space habitats.</p>
+  </div>
+</section>
+
+<footer>
+  Made with passion by students of Commerce, 2025 💼🚀
+</footer>
+
+</body>
+</html>
